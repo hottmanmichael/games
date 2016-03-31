@@ -1,0 +1,15 @@
+{ "columns":7,
+ "image":"..\/..\/Spritesheets\/SImple_Coin_Sheet (1).png",
+ "imageheight":21,
+ "imagewidth":147,
+ "margin":0,
+ "name":"SImple_Coin_Sheet (1)",
+ "properties":
+    {
+
+    },
+ "spacing":0,
+ "tilecount":7,
+ "tileheight":21,
+ "tilewidth":21
+}
